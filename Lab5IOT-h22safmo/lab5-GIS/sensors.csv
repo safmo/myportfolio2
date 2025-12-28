@@ -1,0 +1,8 @@
+sensor_name,latitude,longitude,app_id,dev_id,install_time,adress,number,zip_code,city,status,activity,additional_details,,,,,,,
+Elsys ELT2,60.5790,15.0652 ,campusborlangeelsys,a81758fffe0459fd,19-10-19 19:54,Gagnefsbyn,33,78400,Gagnef,OK,"accMotion, humidity, pressure, temperature, externalTemperature, vdd, x, y, z",,,,,,,,
+Elsys ELT2,60.4886,15.3883,campusborlangeelsys,a81758fffe0459fe,19-10-19 19:54,Mats knuts vag,68,78450,Borlange,OK,"accMotion, humidity, pressure, temperature, externalTemperature, vdd, x, y, z",,,,,,,,
+Elsys ERS CO2,60.4878,15.4088,campusborlangeelsys,a81758fffe045fa4,19-10-19 20:54,Roda vagen,3,78400,Borlange,OK,"CO2, humidity, light, motion, temperature, vdd",,,,,,,,
+Elsys ERS CO2,60.4877,15.4092,campusborlangeelsys,a81758fffe045fa5,19-10-19 20:54,Roda vagen,3,78400,Borlange,OK,"CO2, humidity, light, motion, temperature, vdd",,,,,,,,
+ESP32,60.4887,15.3883,hajo66-test,paxcounter_1,19-11-19 20:54,Mats knuts vag,68,78450,Borlange,OK,PaxCounter,,,,,,,,
+ESP32,60.4888,15.3883,hajo66-test,weatherstation_1,19-11-19 20:54,Mats knuts vag,68,78450,Borlange,OK,"humidity, pressure, temperature",,,,,,,,
+Arduino,60.4877,15.4090,hajo66-test,arduino_1,19-10-01 20:54,Roda vagen,3,78400,Borlange,FAIL,MQTT-test,,,,,,,,
