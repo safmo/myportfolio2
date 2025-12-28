@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQN2aZCYBeY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safiy\\OneDrive - Högskolan Dalarna\\Skrivbordet\\h22safmo-lab2-IOT\\TTN-MQTT-lab2\\TTN-MQTT-lab2\\TTN-MQTT-lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safiy\\.nuget\\packages\\hexconverter\\1.1.1\\hexconverter.1.1.1.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.0\\microsoft.extensions.configuration.fileextensions.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.0\\microsoft.extensions.fileproviders.physical.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.0\\microsoft.extensions.filesystemglobbing.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\mstest.analyzers\\3.7.0\\mstest.analyzers.3.7.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\mstest.testframework\\3.7.0\\mstest.testframework.3.7.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "C:\\Users\\safiy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
